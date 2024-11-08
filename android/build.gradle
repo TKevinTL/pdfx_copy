@@ -25,7 +25,6 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'io.scer.pdfx'
     compileSdkVersion 31
 
     sourceSets {
